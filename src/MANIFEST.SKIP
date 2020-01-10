@@ -1,0 +1,9 @@
+CVS
+Makefile$
+Makefile.old$
+TODO
+blib
+jsax
+tests
+test.pl
+.swp$
